@@ -1,4 +1,5 @@
 streamlit
 inference-sdk
-python-dotenv
+opencv-python
 Pillow
+python-dotenv
