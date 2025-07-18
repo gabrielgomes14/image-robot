@@ -1,6 +1,7 @@
 import streamlit as st
 from inference_sdk import InferenceHTTPClient
-import base64import os
+import base64
+import os
 from dotenv import load_dotenv
 
 # Configurar cliente Roboflow
